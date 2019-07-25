@@ -1,0 +1,6 @@
+owner=504548641780924446
+prefix=.
+game=Break | I HELP RANDOM SERVER
+stayinchannel=true
+songinstatus=false
+token=NjA0MDY2NjQzOTU3NjQ1NDM1.XTojQQ.jmawkXr5XQ0bnYKhvYnTOeAQkTM
